@@ -1,6 +1,6 @@
 # CHAT GPT 3 , 3.5 TRUBO SIMPLE WEB CHAT
 ### simple, fast, quick response
-![Main Page](https://github.com/MrFr3nk/Simple-ChatGPT-webstie/blob/main/img-for-read-me/https://i.postimg.cc/2S7Dcxh8/Screenshot-20240331-115139-Chrome.jpg?raw=true "Main Page")
+<img src="https://i.postimg.cc/2S7Dcxh8/Screenshot-20240331-115139-Chrome.jpg">
 This webstie based from Open AI API
 ## How to setup
 #### Very simple with 2 steps
