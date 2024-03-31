@@ -3,7 +3,7 @@ const chatInput = document.getElementById('chat-input');
 const sendButton = document.getElementById('send-button');
 ///config///
 
-const apikey = "enter your api key here";
+const apikey = "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";
 const orgkey = "enter your org key here";
 //////////////////////////
 
